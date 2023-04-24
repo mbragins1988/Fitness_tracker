@@ -30,4 +30,3 @@ pip3 install -r requirements.txt
 Запустить проект:
 ```
 python homework.py
-```
