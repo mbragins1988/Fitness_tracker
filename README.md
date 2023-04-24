@@ -55,3 +55,6 @@ pip3 install -r requirements.txt
 ```
 python homework.py
 ```
+
+### Стек технологий:
+- Python 3.7
